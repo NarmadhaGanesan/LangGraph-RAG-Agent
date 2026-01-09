@@ -62,9 +62,7 @@ The system is built using LangGraph with the following components:
 ```
 langgraph-chatbot/
 │
-├── notebooks/
-│   └── langgraph_chatbot.ipynb    # Main implementation notebook
-│
+├── langgraph_chatbot.ipynb    # Main implementation notebook
 ├── requirements.txt               # Project dependencies
 ├── README.md                      # This file
 └── graph.png                      # Generated graph visualization
